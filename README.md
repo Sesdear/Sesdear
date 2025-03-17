@@ -19,6 +19,7 @@
 
 ## Contact
 ### > Discord: hlnikniky1111
+### > HYO Team Discord: https://discord.gg/VzeryHZPa9
 
 
 
