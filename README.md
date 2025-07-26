@@ -1,6 +1,6 @@
 
 <h1 align="center">Python, Java, C# Developer</h1>
-<h3 align="center">HYO Team CEO</h3>
+
 
 
 ## Programming languages & Frameworks:
@@ -19,7 +19,7 @@
 
 ## Contact
 ### > Discord: hlnikniky1111
-### > HYO Team Discord: https://discord.gg/VzeryHZPa9
+
 
 
 
