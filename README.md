@@ -15,6 +15,7 @@
 
 ## Contact
 ### > Discord: hlnikniky1111
+### > Telegram: hlnikniky1111
 
 
 
