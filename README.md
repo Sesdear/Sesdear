@@ -4,8 +4,8 @@
 
 ## Stack
 
-Python 3.11+ \
-C and C++ I keep for CLI utilities and coursework - not shipping anything to prod in them yet
+- Python 3.11+ \
+- C and C++ I keep for CLI utilities and coursework - not shipping anything to prod in them yet
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
