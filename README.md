@@ -4,7 +4,7 @@
 
 ## Stack
 
-- Python 3.11+ \
+- **Python 3.11+**
 - C and C++ I keep for CLI utilities and coursework - not shipping anything to prod in them yet
 
 <div>
