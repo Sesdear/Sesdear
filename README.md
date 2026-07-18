@@ -38,8 +38,8 @@ Daily servers driver is Debian-based, but I'm comfortable moving between Arch, F
 ## GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sesdear&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sesdear&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=sesdear&show_icons=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sesdear&layout=compact" alt="Top languages" height="165"/>
 </div>
 
 ## Contact
